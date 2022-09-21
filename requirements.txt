@@ -1,0 +1,17 @@
+python=3.8.5
+numpy
+pandas
+matplotlib
+pillow
+pytorch
+torchvision
+torch-summary
+tqdm
+wandb
+scikit-image
+numba
+gudhi
+
+black
+isort
+flake8
