@@ -2,15 +2,6 @@
 **This repository is part of the course "Computational Intelligence Lab" at ETH Zurich.**
 
 In this project we aim to improve the [SPIN](https://github.com/wgcban/SPIN_RoadMapper) module by complex image augmentation, the ResNeXt backbone architecture and a topology-aware loss function.
-
-
-**Team:**
-| Name             |  ethz id  |
-| :--------------- | :-------: |
-| Talu Karagöz     | tkaragoez |
-| András Strausz   |  stausza  |
-| Alexander Veicht |  veichta  |
-
 ---
 
 ## Repository structure
